@@ -1,0 +1,10 @@
+C:\Users\wyang\source\repos\1225\1225\obj\Debug\1225.csprojAssemblyReference.cache
+C:\Users\wyang\source\repos\1225\1225\obj\Debug\_1225.TaskPaneHostUI.resources
+C:\Users\wyang\source\repos\1225\1225\obj\Debug\1225.csproj.GenerateResource.cache
+C:\Users\wyang\source\repos\1225\1225\obj\Debug\1225.csproj.CoreCompileInputs.cache
+C:\Users\wyang\source\repos\1225\1225\bin\Debug\Arrow_Small.jpg
+C:\Users\wyang\source\repos\1225\1225\bin\Debug\1225.dll
+C:\Users\wyang\source\repos\1225\1225\bin\Debug\1225.pdb
+C:\Users\wyang\source\repos\1225\1225\obj\Debug\1225.dll
+C:\Users\wyang\source\repos\1225\1225\obj\Debug\1225.pdb
+C:\Users\wyang\source\repos\1225\1225\bin\Debug\TaskPaneHostUI.Designer.cs
